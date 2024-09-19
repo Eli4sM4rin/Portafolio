@@ -1,0 +1,82 @@
+{
+  "name": "#virtual-folio",
+  "short_name": "#virtual-folio",
+  "description": "Bienvenid@s a #virtual-folio",
+  "background_color": "#2B2B2B",
+  "theme_color": "#F0DB4F",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./img/profile.jpg",
+      "sizes": "600x600",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "./img/portfolio-1.jpg",
+      "sizes": "400x300",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "./img/portfolio-2.jpg",
+      "sizes": "400x300",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "./img/portfolio-3.jpg",
+      "sizes": "400x300",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "./img/portfolio-4.jpg",
+      "sizes": "400x300",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "./img/portfolio-5.jpg",
+      "sizes": "400x300",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "./img/portfolio-6.jpg",
+      "sizes": "400x300",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "./img/testimonial-1.jpg",
+      "sizes": "100x100",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "./img/testimonial-2.jpg",
+      "sizes": "100x100",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "./lib/lightbox/images/close.png",
+      "sizes": "27x27",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "./img/screenshots/screenshot1.png",
+      "sizes": "600x400",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
